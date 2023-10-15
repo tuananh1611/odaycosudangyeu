@@ -201,7 +201,7 @@ body {
   font-family: cursive;
   color: #ff49e9;
   top: 5vmin;
-  font-size: 2.2vw;
+  font-size: 120%;
 }
 
 .pikachu {
@@ -420,7 +420,18 @@ body {
   Z-INDEX: 1;
   font-family: cursive;
   color: #e21fa1;
-  font-size: 2.11vw;
+  font-size: 2vw;
+}
+.cuoi{
+  position: relative;
+  margin: 40px auto 0 auto;
+  width: 320px;    
+  Z-INDEX: 1;
+  font-family: cursive;
+  color: #e21fa1;
+  font-size: 50%;
+  left: 170%;
+  
 }
 
 
