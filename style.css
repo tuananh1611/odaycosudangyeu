@@ -418,7 +418,7 @@ body {
   margin: 50px auto 0 auto;
   width: 320px;    
   Z-INDEX: 1;
-  font-family: cursive;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #e21fa1;
   font-size: 180%;
 }
