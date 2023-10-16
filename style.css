@@ -424,7 +424,7 @@ body {
 }
 .cuoi{
   position: relative;
-  margin: 40px auto 0 auto;
+  margin-left: auto;
   width: 320px;    
   Z-INDEX: 1;
   font-family: cursive;
