@@ -424,13 +424,13 @@ body {
 }
 .cuoi{
   position: relative;
-  right: 0px;
   width: 320px;    
   Z-INDEX: 1;
   font-family: cursive;
   color: #e21fa1;
   font-size: 50%;
-  
+  text-align: right ;
+  bottom: -130px;
   
 }
 
